@@ -58,6 +58,5 @@ pageChanger();
 
 
 
-
 // console.log(pageArr);
 // console.log(pageCurr);
